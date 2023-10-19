@@ -1,4 +1,4 @@
-# Pengembangan Sistem Informasi Pembayaran SPP di Sekolah
+# Pengembangan Sistem Pembayaran SPP di Sekolah
 
 Nama : Syifa Aurellia Rahma
 
